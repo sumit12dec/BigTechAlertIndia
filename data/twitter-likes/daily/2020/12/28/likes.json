@@ -1,0 +1,635 @@
+[
+  {
+    "created_at": "Mon Dec 28 11:48:26 +0000 2020",
+    "id": 1343524204214427600,
+    "id_str": "1343524204214427648",
+    "text": "Ruby tip: Run `$ bundle config set jobs 8`\n\nIt'll increase the amount of gems installed in parallel when you run `b… https://t.co/QrL5KV0iKW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QrL5KV0iKW",
+          "expanded_url": "https://twitter.com/i/web/status/1343524204214427648",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14980856,
+      "id_str": "14980856",
+      "name": "Mike Rogers 💎",
+      "screen_name": "MikeRogers0",
+      "location": "London, UK",
+      "description": "A Rubyist, a menace, a web hygienist.\n\n📺 YouTube: https://t.co/SnkmoRiIKO\n🔨 GitHub: https://t.co/Nf3lYU4mQD\n🚀 Typo CI: https://t.co/nnQvUSvq85\n\n#Ruby #WebDev #Rails",
+      "url": "https://t.co/MaZn07CeBU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MaZn07CeBU",
+              "expanded_url": "https://mikerogers.io/",
+              "display_url": "mikerogers.io",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/SnkmoRiIKO",
+              "expanded_url": "http://youtube.com/c/MikeRogers0",
+              "display_url": "youtube.com/c/MikeRogers0",
+              "indices": [
+                50,
+                73
+              ]
+            },
+            {
+              "url": "https://t.co/Nf3lYU4mQD",
+              "expanded_url": "http://github.com/mikerogers0",
+              "display_url": "github.com/mikerogers0",
+              "indices": [
+                84,
+                107
+              ]
+            },
+            {
+              "url": "https://t.co/nnQvUSvq85",
+              "expanded_url": "http://typoci.com",
+              "display_url": "typoci.com",
+              "indices": [
+                119,
+                142
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2372,
+      "friends_count": 344,
+      "listed_count": 127,
+      "created_at": "Mon Jun 02 15:09:27 +0000 2008",
+      "favourites_count": 4406,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 19574,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1333393497169268738/iRz6Dz0w_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333393497169268738/iRz6Dz0w_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14980856/1477177366",
+      "profile_link_color": "0D7A94",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 162,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 28 08:47:18 +0000 2020",
+    "id": 1343478620811976700,
+    "id_str": "1343478620811976704",
+    "text": "“we are live” circa 2007\n\n@Flipkart 🔥 https://t.co/rnn73O2fqU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Flipkart",
+          "name": "Flipkart",
+          "id": 57947109,
+          "id_str": "57947109",
+          "indices": [
+            26,
+            35
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1343478612662489000,
+          "id_str": "1343478612662489088",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqT-rh8VEAAzuos.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqT-rh8VEAAzuos.jpg",
+          "url": "https://t.co/rnn73O2fqU",
+          "display_url": "pic.twitter.com/rnn73O2fqU",
+          "expanded_url": "https://twitter.com/ankitkr0/status/1343478620811976704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 679,
+              "h": 225,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 679,
+              "h": 225,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 679,
+              "h": 225,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1343478612662489000,
+          "id_str": "1343478612662489088",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqT-rh8VEAAzuos.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqT-rh8VEAAzuos.jpg",
+          "url": "https://t.co/rnn73O2fqU",
+          "display_url": "pic.twitter.com/rnn73O2fqU",
+          "expanded_url": "https://twitter.com/ankitkr0/status/1343478620811976704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 679,
+              "h": 225,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 679,
+              "h": 225,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 679,
+              "h": 225,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 731708249347514400,
+      "id_str": "731708249347514371",
+      "name": "Ankit Kumar",
+      "screen_name": "ankitkr0",
+      "location": "hey@ankitkr0.in",
+      "description": "Curating @1RandomInternet, Made https://t.co/t0bhxgsDz8",
+      "url": "https://t.co/ObdHhG8RUF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ObdHhG8RUF",
+              "expanded_url": "https://ankitkr0.in/",
+              "display_url": "ankitkr0.in",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/t0bhxgsDz8",
+              "expanded_url": "http://ReadList.in",
+              "display_url": "ReadList.in",
+              "indices": [
+                32,
+                55
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 13990,
+      "friends_count": 654,
+      "listed_count": 173,
+      "created_at": "Sun May 15 04:50:15 +0000 2016",
+      "favourites_count": 85571,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21162,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1325811138072899587/jGxW-uyV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325811138072899587/jGxW-uyV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/731708249347514371/1612841435",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 1042,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 28 07:09:30 +0000 2020",
+    "id": 1343454008715796500,
+    "id_str": "1343454008715796480",
+    "text": "Our open-source project, Upptime, is on the Hacker News homepage today!\n\nhttps://t.co/9Lth2zpaj6 https://t.co/Pwk3i6VkZ0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9Lth2zpaj6",
+          "expanded_url": "https://news.ycombinator.com/item?id=25553445",
+          "display_url": "news.ycombinator.com/item?id=255534…",
+          "indices": [
+            73,
+            96
+          ]
+        },
+        {
+          "url": "https://t.co/Pwk3i6VkZ0",
+          "expanded_url": "https://twitter.com/newsycombinator/status/1343361529782013952",
+          "display_url": "twitter.com/newsycombinato…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1332240925372911600,
+      "id_str": "1332240925372911617",
+      "name": "Koj Engineering",
+      "screen_name": "KojEngineering",
+      "location": "Bern, Switzerland",
+      "description": "Engineering at @Koj — Building technology to help people live more beautifully\n\n🛋️ @Koj  • 🙋 @KojSupport • 💻 @KojEngineering • 🎨 @KojDesign",
+      "url": "https://t.co/rPAxl0Q2iS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rPAxl0Q2iS",
+              "expanded_url": "https://koj.co/engineering",
+              "display_url": "koj.co/engineering",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 4,
+      "listed_count": 1,
+      "created_at": "Fri Nov 27 08:33:14 +0000 2020",
+      "favourites_count": 2,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1332293509513158658/2ZjWE4EV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332293509513158658/2ZjWE4EV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332240925372911617/1606478570",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1343361529782014000,
+    "quoted_status_id_str": "1343361529782013952",
+    "quoted_status": {
+      "created_at": "Mon Dec 28 01:02:01 +0000 2020",
+      "id": 1343361529782014000,
+      "id_str": "1343361529782013952",
+      "text": "Upptime – GitHub-powered open-source uptime monitor and status page https://t.co/CAFci6afsm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CAFci6afsm",
+            "expanded_url": "https://upptime.js.org/",
+            "display_url": "upptime.js.org",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "Get the latest from Hacker News! Top 5 stories on the hour, every hour. By @riklomas from @superhi_ (and no, I'm not adding the comments link to each tweet)",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 219031,
+        "friends_count": 2,
+        "listed_count": 7660,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 144231,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 43,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 28 01:02:01 +0000 2020",
+    "id": 1343361529782014000,
+    "id_str": "1343361529782013952",
+    "text": "Upptime – GitHub-powered open-source uptime monitor and status page https://t.co/CAFci6afsm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CAFci6afsm",
+          "expanded_url": "https://upptime.js.org/",
+          "display_url": "upptime.js.org",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "Get the latest from Hacker News! Top 5 stories on the hour, every hour. By @riklomas from @superhi_ (and no, I'm not adding the comments link to each tweet)",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 219031,
+      "friends_count": 2,
+      "listed_count": 7660,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 144231,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 43,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

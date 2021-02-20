@@ -1,0 +1,16 @@
+{
+  "2020": {
+    "steps": 676204,
+    "total": 28725,
+    "cal_active": 37843,
+    "cal_total": 283262,
+    "score": 7404
+  },
+  "2021": {
+    "steps": 222928,
+    "total": 9678,
+    "cal_active": 10835,
+    "cal_total": 121043,
+    "score": 2473
+  }
+}
